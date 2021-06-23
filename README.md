@@ -2,7 +2,7 @@
 
 # SMM_Analytics
 
-<h4>Esse é um projeto do terceiro módulo do curso Resilia - Web Dev Full Stack</h4>
+<h4>Projeto elaborado para o terceiro módulo do curso Resilia - Web Dev Full Stack</h4>
 
 > Status: Finalizado ✔️
 
@@ -43,7 +43,7 @@
 </table>
 
 ## Equipe de desenvolvedores  que participaram do projeto:
-+ Lucas  [linkedin]() [github]()
-+ Bruna  [linkedin]() [github]()
-+ Junior [linkedin]() [github]()
-+ Joana  [linkedin]() [github]()
++ Lucas Vinicius  [linkedin](https://www.linkedin.com/in/lucas-vinicius-ferreira-50786515b/) /[github](https://github.com/LucasViniciusF)
++ Bruna Wesselka  [linkedin](https://www.linkedin.com/in/bruna-wesselka-tardoque)/ [github](https://github.com/BrunaWesselka)
++ Junior Bertão   [linkedin](https://www.linkedin.com/in/junior-bert%C3%A3o-5448481a5/) /[github](https://github.com/jrbert)
++ Joana Silva     [linkedin](https://www.linkedin.com/in/joana-silvas/)/ [github](https://github.com/Joana-Silvas)
