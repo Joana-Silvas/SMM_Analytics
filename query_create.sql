@@ -16,14 +16,14 @@ SELECT `player`.`flag` AS `nacionalidade`, count(*) AS `count`
 FROM `player`
 GROUP BY `player`.`flag`
 ORDER BY `count`DESC 
-limit 3
+limit 3;
 
 #Os países com mais jogadores.
 
 SELECT `player`.`flag` AS `Nacionalidade`, count(*) AS `count`
 FROM `player`
 GROUP BY `player`.`flag`
-ORDER BY `count`desc 
+ORDER BY `count`desc;
 
 #Quais jogadores tem os maiores records.
 
