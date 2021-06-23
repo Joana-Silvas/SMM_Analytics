@@ -35,8 +35,8 @@
 </tr>
 <tr>
 <td>v0.39.4</td>
-<td>-</td>
-<td>-</td>
+<td>n/a</td>
+<td>n/a</td>
 <td>8.0x</td>
 <td>8.0x</td>
 </tr>
