@@ -31,3 +31,24 @@ SELECT DISTINCT timeRecord, Player
 FROM records
 ORDER BY timeRecord DESC
 LIMIT 10;
+
+
+
+#Média de pontuação de records.
+SELECT avg(`records`.`timeRecord`) AS `avg`
+FROM `records`;
+
+
+#Comparação entre as dificuldades.
+
+SELECT `courses`.`difficulty` AS `difficulty`, count(*) AS `Nº de Fases`
+FROM `courses`
+GROUP BY `courses`.`difficulty`
+ORDER BY `courses`.`difficulty` ASC;
+
+
+#Comparação entre modo de jogo.
+SELECT `courses`.`gameStyle` AS `gameStyle`, count(*) AS `count`
+FROM `courses`
+GROUP BY `courses`.`gameStyle`
+ORDER BY `courses`.`gameStyle` ASC;
