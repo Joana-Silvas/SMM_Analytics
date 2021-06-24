@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap%22");
+
+body {
+  background-color: black;
+}
+.fonte-do-texto-cabeçalho {
+  font-family: "Bebas Neue", cursive;
+  color: #ffc107 !important;
+  font-size: 40px;
+}
+
+.estiloBotao {
+  color: black;
+  border-color: transparent;
+}
+
+.estiloBotao:hover {
+  color: black;
+  background-color: black;
+}
+h5{
+    color: #ffc107;
+}
+.carousel-item{
+    height: 550px;
+}
+footer{
+    width: 1460px;
+}
