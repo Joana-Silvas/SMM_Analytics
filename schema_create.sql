@@ -34,7 +34,7 @@ CREATE TABLE IF NOT EXISTS `courses` (
 `image` VARCHAR(250) NULL,
 `creation` DATETIME NULL
 );
-ALTER TABLE plays
+ALTER TABLE courses
 ADD CONSTRAINT player_id FOREIGN KEY (maker) REFERENCES player (player_id);
 
 
@@ -50,5 +50,5 @@ CREATE TABLE IF NOT EXISTS `courses_meta` (
 `attempts` INT NULL,
 `clearRate` FLOAT NULL
 );
-ALTER TABLE plays
+ALTER TABLE courses_meta
 ADD CONSTRAINT player_id FOREIGN KEY (players) REFERENCES player (player_id);
